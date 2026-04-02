@@ -1,0 +1,7 @@
+INITIAL - STEP
+
+1.Github setup
+2.Created vartual env
+3.Build setup.py
+
+
